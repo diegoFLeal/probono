@@ -623,10 +623,6 @@ print.summary.netlm(qapjaccardSTATUS)
 system.time(qapinv <- netlm(invLogW,covariates,nullhyp="qapspp",reps=2000))
 print.summary.netlm(qapinv)
 
-setwd("C:/Users/diego/Dropbox/DLeal/USC/papers/Probono/probono_2018/probono_output_data_files")
-save.image("probono_2018_QAP_Objects.Rdata")
-
-
 #########################################################################
 #########################################################################
 #########################################################################
@@ -777,9 +773,9 @@ print(Sys.time() - g.time)
 save.image("probono2018_Objects.Rdata")
 
 #print LSM results
-summary(lsmPbNetALLX2)
-summary(lsmPbNetSTATUS2)
-summary(lsmPbNetCONTROLS2)
+summary(lsmPbNetALLX)
+summary(lsmPbNetSTATUS)
+summary(lsmPbNetCONTROLS)
   
 ##### generate sociogram of the two-mode network
 
