@@ -1,6 +1,7 @@
 ## Project: Status and Collaboration: The Case of Pro Bono Network Inequalities in Corporate Law
 ## Purpose: Main data processing and analysis script
 ## Code written by Diego F. Leal (www.diegoleal.info)
+## All rights reserved
 ## Last revision: 7/27/2018
 
 ## clear all
