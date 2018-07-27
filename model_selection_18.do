@@ -1,6 +1,7 @@
 ** Project: Status and Collaboration: The Case of Pro Bono Network Inequalities in Corporate Law
 ** Purpose: Sensitivity analysis to select status hierarchy cut off points
 ** Code written by Diego F. Leal (www.diegoleal.info)
+** All rights reserved
 ** Last revision: 7/27/2018
 
 clear
