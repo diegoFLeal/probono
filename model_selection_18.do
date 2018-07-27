@@ -1,8 +1,7 @@
-** Diego F. Leal, Anthony Paik, Steven Boutcher
-** Data processing do-file
-** Status and Conformity Revisited: Corporate Law Firms and Isomorphism in Pro Bono Ties.
+** Project: Status and Collaboration: The Case of Pro Bono Network Inequalities in Corporate Law
+** Purpose: Sensitivity analysis to select status hierarchy cut off points
 ** Code written by Diego F. Leal (www.diegoleal.info)
-** Last revision: 07/26/2018
+** Last revision: 7/27/2018
 
 clear
 pwd
