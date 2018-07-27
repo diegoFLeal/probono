@@ -1,8 +1,7 @@
-## Diego F. Leal, Anthony Paik, Steven Boutcher
-## Data processing Rscript
-## Status and Conformity Revisited: Corporate Law Firms and Isomorphism in Pro Bono Ties.
-## Code written by Diego F. Leal, UMass-Amherst (www.diegoleal.info)
-## Last revision: 7/26/2018
+## Project: Status and Collaboration: The Case of Pro Bono Network Inequalities in Corporate Law
+## Purpose: Sensitivity analysis using American Law Review data
+## Code written by Diego F. Leal (www.diegoleal.info)
+## Last revision: 7/27/2018
 
 
 ## clear all
