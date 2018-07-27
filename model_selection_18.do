@@ -1,7 +1,7 @@
 ** Diego F. Leal, Anthony Paik, Steven Boutcher
 ** Data processing do-file
 ** Status and Conformity Revisited: Corporate Law Firms and Isomorphism in Pro Bono Ties.
-** Code written by Diego F. Leal, UMass-Amherst (www.diegoleal.info)
+** Code written by Diego F. Leal (www.diegoleal.info)
 ** Last revision: 07/26/2018
 
 clear
